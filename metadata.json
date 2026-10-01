@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "GenAI-powered, cross-platform smart budget and recommendation assistant for home interiors, party planning, and jewelry matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
